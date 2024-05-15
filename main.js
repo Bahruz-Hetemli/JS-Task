@@ -18,7 +18,7 @@ function sResult() {
 }
 
 
-let isim=["behruz", "Fatime", "seymur", "Ayse"];
+
 
 
 function quvvet(eded, ustu){
